@@ -1,7 +1,7 @@
 <div align="center">
     
-    # 昼のご飯 / hirunogohan
-    **Programmer / Student**
+  # 昼のご飯 / hirunogohan
+  **Programmer / Student**
     
 </div>
 
