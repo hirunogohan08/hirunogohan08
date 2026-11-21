@@ -1,83 +1,81 @@
 <div align="center">
-  
-  # 昼のご飯 / hirunogohan
-  **Programmer / Student**
-
+    
+    # 昼のご飯 / hirunogohan
+    **Programmer / Student**
+    
 </div>
 
 ---
 
-## 自己紹介
+## Introduction
 
-こんにちは、昼のご飯です！
+Hello! I'm hirunogohan!
 
-基本的には競技プログラミングをしています。
-主にPythonを使っています。
+I mainly do competitive programming, and my primary programming language is Python.
 
-まだまだ知らないことも多いので、これから色々なことに挑戦してみたいなぁと思っています！
+There are still many things I don't know, so I'm looking forward to trying out all kinds of new things!
 
 ---
 
-## 好きなこと・趣味
+## Hobbies & Interests
 
-- プログラミング
-- アニメ・ゲーム
-- 麻雀
-- 睡眠
-- ボカロ
-- 海月
-- 景色を見ること
+- Programming
+- Anime & Games
+- Mahjong
+- Sleeping
+- Vocaloid
+- Enjoying Scenery
 
-など！
+And more!
 
-## 好きな飲食物
+## Favorite Food & Drinks
 
-- プリン
-- 刺身
-- ボーロ
-- ジンジャーエール
+- Pudding
+- Sashimi
+- Boro (Japanese biscuits)
+- Ginger Ale
 
-など！
+And more!
 
-## プログラミング関連
+## Programming
 
-### アカウント
+### Accounts
 
 - [Scratch](https://scratch.mit.edu/users/hujimonntentan/)
 - [AtCoder](https://atcoder.jp/users/hirunogogan)
 - [GitHub](https://github.com/hirunogohan08)
 - [TOY-PRO](https://app.toy-pro.net/user/profile/mark_tomo03)
-- [X（旧Twitter）](https://x.com/hirunogogan/)
+- [X (formerly Twitter)](https://x.com/hirunogogan/)
 - [Qiita](https://qiita.com/hirunogohan)
 - [note](https://note.com/hirunogohan)
 
-### 実績
+### Achievements
 
-- プログラミング能力検定：レベル6（Python）
-- JOI予選：Bクラス通過
-- TOY-PRO：TSC004 コンテスト1位
-- TOY-PRO：TSC005 コンテスト1位
-- AJL2025夏：中2個人アルゴリズム 16位
-- AJL2025冬：中2個人アルゴリズム 19位
+- Programming Skills Certification: Level 6 (Python)
+- JOI Preliminary Round: Passed Class B
+- TOY-PRO: 1st Place in TSC004 Contest
+- TOY-PRO: 1st Place in TSC005 Contest
+- AJL 2025 Summer: 16th Place in the Individual Algorithm Division (2nd Year of Junior High School)
+- AJL 2025 Winter: 19th Place in the Individual Algorithm Division (2nd Year of Junior High School)
 
-## やってみたいこと
+## Things I Want to Try
 
-- 資格や検定をたくさん取る
-- HTML・CSSを書けるようになりたい
-- 自分のWebサイトを作ってみたい
-- Pythonをもっと極めたい
-- C++を使えるようになりたい
+- Earn lots of certifications and qualifications
+- Learn HTML and CSS
+- Create my own website
+- Improve my Python skills
+- Learn C++
 
-くらいかな？
+That's about it for now!
 
-## その他
+## Other Things About Me
 
-- 一応、野球を8年間やっていました。
-- 吃音症があり、滑舌はあまり良くないです。
-- 聞き取り困難症についても、可能性があると思っています。
-- わりと静かなので、話しかけてくれると嬉しいです。
-- 時々おかしくなることがあります。そのときは「疲れてるんだな〜」くらいの優しい目で見てやってください。
-- めっちゃ気分屋で自由人ですが、よろしくお願いします！
+- I played baseball for about 8 years.
+- I have a stutter, and my pronunciation isn't always very clear.
+- I also think I might have difficulty understanding spoken speech.
+- I'm a fairly quiet person, so I'd be happy if you came up and talked to me!
+- Sometimes I act a little strange. If that happens, please just think, "They must be tired today~" and be kind to me.
+- I'm pretty moody and like doing things my own way, but I hope we can get along!
 
 ---
 
